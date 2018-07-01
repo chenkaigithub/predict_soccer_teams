@@ -1,6 +1,6 @@
 # predict_soccer_teams 
 
-*The project is still under testing and documentation coverage to be sure that everything will be ordered and in a correct way for all the develoeprs.*
+*The project is still under testing and documentation coverage, if you have questions, send me pm*
 
 
 As I'm progressing with the development of this model, I have uploaded some Python codes so you can already see code for review.
